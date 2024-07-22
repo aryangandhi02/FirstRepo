@@ -1,0 +1,182 @@
+.a {
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+    border: 2px solid black;
+
+}
+
+.b {
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    border: 2px solid black;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.c {
+    height: 150px;
+    width: 150px;
+    background-color: pink;
+    border: 2px solid black;
+}
+
+.row1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.a1 {
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    background-color: red;
+}
+
+.a2 {
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    border: 2px solid black;
+}
+
+.a {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.b1 {
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    border: 2px solid black;
+}
+
+.b2 {
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border: 2px solid black;
+}
+
+.c2 {
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+}
+
+.c {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.row2 {
+    height: 150px;
+    width: 1000px;
+    background-color: blue;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+.system1 {
+    height: 50px;
+    width: 50px;
+    background-color: brown;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.system2 {
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.system3 {
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.x {
+    height: 150px;
+    width: 150px;
+    background-color: gray;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.x1 {
+    height: 50px;
+    width: 50px;
+    background-color: gold;
+    border: 2px solid black;
+}
+
+.x2 {
+    height: 50px;
+    width: 50px;
+    background-color: maroon;
+    border: 2px solid black;
+}
+
+.y {
+    height: 150px;
+    width: 150px;
+    background-color: chocolate;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.y1 {
+    height: 50px;
+    width: 50px;
+    background-color: deeppink;
+    border: 2px solid black;
+}
+
+.y2{
+    height: 50px;
+    width: 50px;
+    background-color: tomato;
+    border: 2px solid black;
+}
+.row3{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    
+}
+.main{
+    border: 2px solid black;
+    padding: 20px;
+    background-color: green;
+}

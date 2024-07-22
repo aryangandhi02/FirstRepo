@@ -1,0 +1,51 @@
+.secondclass{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+
+}
+.thirdclass{
+    background-color: red;
+    height: 100px;
+    width: 200px;
+    font-family: "Playwrite CU", cursive;
+
+}
+.fourthclass{
+    background-image: url(techamdavad-logo.png);
+    height: 500px;
+    width: 500px;
+    display: flex; 
+    align-items: center;
+    /* flex-direction: row; */
+}
+.fifthclass{
+    background-color: rgb(0, 255, 255);
+    height: 200px;
+    width: 200px;
+}
+.sixthclass{
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+    margin-left: 20px;
+    padding: 30px;
+    border-radius: 20px;
+    z-index: 1;
+    font-size: 16px;
+    /* margin-right: 90px; */
+}
+.mainclass{
+    /* background-color: yellow; */
+    display: flex; align-items: center; 
+    flex-direction: column;
+    margin: 10px;
+    padding: 20px 30px 40px 50px;
+
+}
+
+@media screen and (max-width: 480px) {
+    .sixthclass{
+        font-size: small;
+    }
+  }
